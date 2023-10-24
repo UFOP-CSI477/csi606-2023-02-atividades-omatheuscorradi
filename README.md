@@ -4,7 +4,7 @@
 
 ## Atualize os seus dados
 
-- Nome: Matheus Corradi
+- Nome: Matheus Silva Corradi
 - Matrícula: 19.2.8117
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 8 periodo
