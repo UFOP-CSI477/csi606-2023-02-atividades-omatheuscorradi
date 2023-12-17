@@ -7,7 +7,7 @@
 - Nome: Matheus Corradi
 - Matrícula: 19.2.8117
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: 8 periodo
+- Semestre/Ano correntes: 8 (Oitavo) período
 - Link para o seu GitHub: [omatheuscorradi](https://github.com/omatheuscorradi/)
 
 ## [Projeto final:](./Projeto/README.md)
