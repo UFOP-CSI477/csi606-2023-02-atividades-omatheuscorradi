@@ -1,6 +1,6 @@
 # **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluno: Matheus Silva Corradi*
 
 --------------
 
@@ -8,28 +8,31 @@
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+    O objetivo do projeto é criar um sistema de adoção de animais de estimação que atenda às necessidades específicas dos usuários, facilitando a conexão entre potenciais adotantes e animais que precisam de um lar. Este sistema busca simplificar o processo de adoção, promovendo uma melhor correspondência entre os animais e seus futuros lares.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+    Plataforma de adoção animal/PET.
+    Nome: AdoPets
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+    Este projeto terá as seguintes funcionalidades:
+    - Login de usuário
+    - Cadastrar um usuário
+    - Editar perfil do usuario
+    - Cadastrar animais para adoção
+    - Editar Animal de estimação
+    - Adotar um animal de estimação
+    - Error 404
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
-### 3. Restrições
+### 3. Protótipo
 
-  Neste trabalho não serão considerados ...
+    https://www.figma.com/file/ib3qXgUsZc5NnH4C4pV81Z/Prototipo-TP-Final-Web1?type=design&node-id=0%3A1&mode=design&t=Ip8OcgWz1AdvcaWh-1
 
-<!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
-### 4. Protótipo
+### 4. Referências
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
-
-### 5. Referências
-
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+    - Design de Adocao de Pet Inspiração: Croco Brasil. Youtube [s. n.], 2023, Disponível em: https://www.youtube.com/watch?v=tKNssw-aM7I
